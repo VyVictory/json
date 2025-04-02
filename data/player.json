@@ -1,0 +1,25 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "full_name": "Nguyen Van A",
+      "username": "player1",
+      "password": "1234",
+      "balance": 10000
+    },
+    {
+      "id": 2,
+      "full_name": "Tran Van B",
+      "username": "player2",
+      "password": "5678",
+      "balance": 5000
+    },
+    {
+      "id": 3,
+      "username": "phuc",
+      "password": "phuc123",
+      "name": "lephuc",
+      "balance": 396999
+    }
+  ]
+}

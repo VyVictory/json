@@ -1,0 +1,28 @@
+{
+  "staff": [
+    {
+      "id": 1,
+      "full_name": "Le Van staff",
+      "username": "staff",
+      "password": "staff123",
+      "address": "123 Street, City",
+      "phone": "0123456789"
+    },
+    {
+      "id": 2,
+      "full_name": "Pham Thi staff1",
+      "username": "staff1",
+      "password": "staff123",
+      "address": "456 Avenue, City",
+      "phone": "0987654321"
+    },
+    {
+      "id": 3,
+      "full_name": "Pham Thi staff2",
+      "username": "phuc",
+      "password": "phuc123",
+      "address": "456 Avenue, City",
+      "phone": "0987654321"
+    }
+  ]
+}

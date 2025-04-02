@@ -1,0 +1,7 @@
+.vercel
+.build
+.cache
+node_modules
+build
+.env
+package-lock.json

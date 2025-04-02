@@ -1,0 +1,20 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "full_name": "Le Van C",
+      "username": "admin",
+      "password": "admin123",
+      "address": "123 Street, City",
+      "phone": "0123456789"
+    },
+    {
+      "id": 2,
+      "full_name": "Pham Thi D",
+      "username": "admin1",
+      "password": "admin123",
+      "address": "456 Avenue, City",
+      "phone": "0987654321"
+    }
+  ]
+}

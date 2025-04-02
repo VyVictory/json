@@ -1,0 +1,22 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "room_id": 1,
+      "screen": "Dell 24'",
+      "cpu": "Intel i5",
+      "ram": "16GB",
+      "storage": "256GB SSD",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "room_id": 2,
+      "screen": "LG 27'",
+      "cpu": "Intel i7",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "status": "maintenance"
+    }
+  ]
+}

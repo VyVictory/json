@@ -1,0 +1,78 @@
+{
+  "rooms": [
+    {
+      "room_id": 1,
+
+      "computers": [
+        {
+          "id": 1,
+          "screen": "Dell 24'",
+          "cpu": "Intel i5",
+          "ram": "16GB",
+          "storage": "256GB SSD",
+          "status": "active"
+        },
+        {
+          "id": 2,
+          "screen": "LG 27'",
+          "cpu": "Intel i7",
+          "ram": "32GB",
+          "storage": "512GB SSD",
+          "status": "maintenance"
+        }
+      ]
+    },
+    {
+      "room_id": 2,
+      "computers": [
+        {
+          "id": 3,
+          "screen": "Asus 24'",
+          "cpu": "AMD Ryzen 5",
+          "ram": "16GB",
+          "storage": "1TB HDD",
+          "status": "broken"
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "full_name": "Nguyen Van A",
+      "username": "player1",
+      "password": "1234",
+      "balance": 10000
+    },
+    {
+      "full_name": "Tran Van B",
+      "username": "player2",
+      "password": "5678",
+      "balance": 5000
+    }
+  ],
+  "staff": [
+    {
+      "full_name": "Le Van C",
+      "username": "staff1",
+      "password": "abcd",
+      "address": "123 Street, City",
+      "phone": "0123456789"
+    },
+    {
+      "full_name": "Pham Thi D",
+      "username": "staff2",
+      "password": "efgh",
+      "address": "456 Avenue, City",
+      "phone": "0987654321"
+    }
+  ],
+  "admin": { "username": "admin", "password": "admin123" },
+  "reports": [
+    {
+      "reported_by": "staff1",
+      "player": "player2",
+      "violation": "Sử dụng ngôn từ tục tĩu"
+    }
+  ],
+  "revenue": [{ "date": "2025-04-02", "total": 150000 }]
+}
